@@ -1,4 +1,6 @@
-name = "abhi"
-quote = '"i am just playing my best move"'
-message = f"{name} once said, {quote}"
-print(message)
+def computer (name):
+    if name == 'apple':
+        return 'ok'
+    
+name = 'apple'
+print(computer('apple'))
