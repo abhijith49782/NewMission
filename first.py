@@ -1,6 +1,5 @@
-cars = ['swift','polo','nano']
-for car in cars:
-    if car == 'swift':
-        print(f"best car is {car}")
+for number in range (1000):
+    if number%2==0:
+        print(f"{number} is a even number")
     else:
-        print(car + car)
+        print(f"{number} is a odd number")
