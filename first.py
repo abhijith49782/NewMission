@@ -1,6 +1,6 @@
-def computer (name):
-    if name == 'apple':
-        return 'ok'
-    
-name = 'apple'
-print(computer('apple'))
+cars = ['swift','polo','nano']
+for car in cars:
+    if car == 'swift':
+        print(f"best car is {car}")
+    else:
+        print(car)
