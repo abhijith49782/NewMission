@@ -1,0 +1,70 @@
+/*
+Theme Name: Minimal Magazine
+Theme URI: https://example.com/minimal-magazine
+Author: ChatGPT
+Author URI: https://example.com
+Description: A minimal, magazine-style WordPress theme with a clean white design, single feed of posts, optional featured images, and tag-based filter.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: minimal-magazine
+Tags: blog, clean, white, responsive, minimal
+*/
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  background: #fff;
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.filter {
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.filter label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.posts article {
+  border-bottom: 1px solid #eaeaea;
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+}
+
+.posts .post-thumbnail {
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.posts .post-thumbnail img {
+  display: block;
+  width: 150px;
+  height: auto;
+}
+
+.post-title {
+  font-size: 1.5rem;
+}
+
+.pagination {
+  margin: 30px 0;
+  text-align: center;
+}
