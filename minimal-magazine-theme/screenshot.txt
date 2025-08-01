@@ -1,0 +1,18 @@
+Screenshot Description for Minimal Magazine Theme
+
+The screenshot should show:
+
+1. Clean white background
+2. Centered site title in large, elegant typography
+3. Site description below the title
+4. Tag filter buttons at the top (showing "All Posts" and a few sample tags)
+5. Several blog posts displayed in a clean, minimal layout
+6. Each post showing:
+   - Large, readable title
+   - Date and tags below the title
+   - Optional featured image
+   - Excerpt text
+7. Responsive design that looks good on desktop
+8. Plenty of whitespace and clean typography using Georgia font
+
+The overall aesthetic should be minimal, magazine-style with a focus on readability and clean design.
