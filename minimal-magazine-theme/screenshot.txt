@@ -1,0 +1,20 @@
+SCREENSHOT INSTRUCTIONS
+
+To create a screenshot for your WordPress theme:
+
+1. Create a screenshot.png file (1200x900 pixels recommended)
+2. The screenshot should show:
+   - The main blog feed with several posts
+   - Tag filtering buttons at the top
+   - Clean white design with Inter typography
+   - Post thumbnails and excerpts
+   - Responsive layout
+
+3. Place the screenshot.png file in the theme root directory
+4. WordPress will automatically use this as the theme preview
+
+Screenshot requirements:
+- Format: PNG
+- Size: 1200x900 pixels (recommended)
+- Content: Should represent the actual theme appearance
+- No text overlays or branding that's not part of the theme
